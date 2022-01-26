@@ -1,6 +1,6 @@
 # SSHPLUS
 
-apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/Smok777/SSHPLUS/main/Plus && chmod 777 Plus && ./Plus
+apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/Smok7ssh/SSHPLUS/main/Plus && chmod 777 Plus && ./Plus
 
 
 #Acessa Root
